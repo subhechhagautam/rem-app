@@ -3,7 +3,6 @@ import { Image, Pressable, StyleSheet, Text, View } from "react-native"; // Adde
 import { SafeAreaView } from "react-native-safe-area-context";
 
 const ArrowIcon = require("../assets/images/weui_arrow-filled.png");
-
 const About = () => {
 
     return (
